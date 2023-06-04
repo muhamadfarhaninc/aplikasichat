@@ -177,7 +177,7 @@ class _UserInfoPageState extends ConsumerState<UserInfoPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).backgroundColor,
+        backgroundColor: Theme.of(context).canvasColor,
         elevation: 0,
         title: Text(
           'Informasi profil',

@@ -115,11 +115,6 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  fonts:
-    - family: Kanit
-      fonts:
-        - asset: assets/fonts/Kanit-Medium.ttf
-          style: italic
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

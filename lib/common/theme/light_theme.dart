@@ -7,7 +7,7 @@ import '../extension/custom_theme_extension.dart';
 ThemeData lightTheme() {
   final ThemeData base = ThemeData.light();
   return base.copyWith(
-    backgroundColor: Coloors.backgroundLight,
+    canvasColor: Coloors.backgroundLight,
     scaffoldBackgroundColor: Coloors.backgroundLight,
     extensions: [CustomThemeExtension.lightMode],
     appBarTheme: const AppBarTheme(

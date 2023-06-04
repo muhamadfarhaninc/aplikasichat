@@ -93,7 +93,7 @@ class _ImagePickerPageState extends State<ImagePickerPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Theme.of(context).backgroundColor,
+        backgroundColor: Theme.of(context).canvasColor,
         leading: CustomIconButton(
           onPressed: () => Navigator.pop(context),
           icon: Icons.arrow_back,
