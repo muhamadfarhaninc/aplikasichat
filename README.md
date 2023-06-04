@@ -1,6 +1,6 @@
-# whatsapp_messenger
+# Aplikasi Chat
 
-A new Flutter project.
+Membuat Aplikasi Chat - PDA_Semester2
 
 ## Getting Started
 
